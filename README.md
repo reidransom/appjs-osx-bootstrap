@@ -1,6 +1,6 @@
 # appjs-osx-bootstrap
 
-The pupose of this project is to make appjs apps look and feel more like native OSX apps.
+The purpose of this project is to make AppJS apps look and feel more like native OSX apps.
 
 ## Features
 
